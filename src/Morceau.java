@@ -23,6 +23,7 @@ public class Morceau {
         this.nom = nom;
     }
 
+
     public void ajouteMorceau(JPanel panel){
         Border blackline = BorderFactory.createLineBorder(Color.blue);
 
